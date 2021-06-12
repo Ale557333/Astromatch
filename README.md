@@ -4,8 +4,8 @@
 
 <img align="center" src="./astrogif.gif" alt="gif astromatch"/>
 
-</br>
 ---
+
 # Índice
 
 - [Descrição](#-descrição-do-projeto)
