@@ -21,7 +21,7 @@ o projeto foi desenvolvido usando as seguintes tecnologias:
 
 - [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 - [Styled-Components](https://styled-components.com/docs)
-- Hooks
+- [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 
 ---
 
