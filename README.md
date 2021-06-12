@@ -2,6 +2,10 @@
     Astromatch
 </h1>
 
+<img align="center" src="./astrogif.gif" alt="gif astromatch"/>
+
+</br>
+---
 # Índice
 
 - [Descrição](#-descrição-do-projeto)
@@ -13,6 +17,7 @@
 ## 🖋 Descrição do projeto
 
 O projeto **Astromatch** foi desenvolvido durante o **Bootcamp da Labenu**, com o intuito de colocarmos em prática o conteúdo estudado durante o curso, a saber: Hooks (useState e/ou useEffect). Trata-se de um clone do Tinder, com uma tela de perfils com a opção de "dar match" ou rejeitar, uma tela de Matches constituída de uma lista de usuários que "deram match" com o usuário que estiver usando a aplicação, também tem a possibilidade do usuário resetar os matches a qualquer momento.
+
 ---
 
 ## 🚀 Tecnologias utilizadas
@@ -42,4 +47,4 @@ npm install
 npm run start
 ```
 
-Desenvolvido com 🧡 por Alexandre Oliveira
+Desenvolvido com 💙 por Alexandre Oliveira 🤓
