@@ -9,6 +9,7 @@
 # Índice
 
 - [Descrição](#-descrição-do-projeto)
+- [Como acessar o projeto](#-como-acessar-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Instalação](#-como-baixar-o-projeto)
 
