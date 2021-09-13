@@ -27,7 +27,7 @@ Trata-se de um clone do Tinder, com uma tela de perfils com a opção de "dar ma
 
 ## 🌎 Como acessar o projeto
 
-- [Link do surge](astro-print-ale.surge.sh)
+- [Link do surge](https://astro-print-ale.surge.sh/)
 
 ## 🚀 Tecnologias utilizadas
 
