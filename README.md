@@ -1,6 +1,6 @@
 # 💖 Astromatch
 
-O projeto **Astromatch** foi desenvolvido durante o **Bootcamp da Labenu**, com o intuito de colocarmos em prática o conteúdo estudado durante o curso, a saber: Hooks (useState e/ou useEffect).
+The Astromatch project was developed during the Labenu Bootcamp to put into practice the content studied during the course, specifically: Hooks (useState and/or useEffect).
 
 <h1 align="center">
 
@@ -19,19 +19,19 @@ O projeto **Astromatch** foi desenvolvido durante o **Bootcamp da Labenu**, com 
 
 ---
 
-## 🖋 Descrição do projeto
+## 🖋 Description
 
-Trata-se de um clone do Tinder, com uma tela de perfils com a opção de "dar match" ou rejeitar, uma tela de Matches constituída de uma lista de usuários que "deram match" com o usuário que estiver usando a aplicação, também tem a possibilidade do usuário resetar os matches a qualquer momento.
+It is a Tinder clone, featuring a profile screen with the option to "match" or reject, a Matches screen consisting of a list of users who have "matched" with the current user, and the ability for the user to reset matches at any time.
 
 ---
 
-## 🌎 Como acessar o projeto
+## 🌎 How to access 
 
 - [Link do surge](https://astro-print-ale.surge.sh/)
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Techs
 
-o projeto foi desenvolvido usando as seguintes tecnologias:
+The project was developed using the following technologies:
 
 - [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 - [Styled-Components](https://styled-components.com/docs)
@@ -39,21 +39,21 @@ o projeto foi desenvolvido usando as seguintes tecnologias:
 
 ---
 
-## 💾 Como baixar o projeto
+## 💾 How to download the project
 
-- Primeiro instale o [Git](https://git-scm.com/), [Node.jS](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm)
+- First, install the [Git](https://git-scm.com/), [Node.jS](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm)
 ```bash
-# Clonar o repositório
+# Clone to the repo
 git clone https://github.com/Ale557333/Astromatch.git
 
-# Entrar no diretório
+# Enter to the directory 
 cd astromatch
 
-# Instalar as dependências
+# Install the dependencies 
 npm install
 
-# Rodar o projeto
+# Run 🏁
 npm run start
 ```
 
-Desenvolvido com 💙 por Alexandre Oliveira 🤓
+Developed whit 💙 by Alexandre 🤓
