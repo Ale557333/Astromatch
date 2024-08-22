@@ -10,12 +10,12 @@ The Astromatch project was developed during the Labenu Bootcamp to put into prac
 
 ---
 
-# Índice
+# Index
 
-- [Descrição](#-descrição-do-projeto)
-- [Como acessar o projeto](#-como-acessar-o-projeto)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Instalação](#-como-baixar-o-projeto)
+- [Description](#-description)
+- [How to access ](#-how-to-access)
+- [Techs](#-techs)
+- [How to download the project](#-how-to-download-the-project)
 
 ---
 
