@@ -43,7 +43,7 @@ The project was developed using the following technologies:
 
 - First, install the [Git](https://git-scm.com/), [Node.jS](https://nodejs.org/pt-br/download/) + [npm](https://www.npmjs.com/get-npm)
 ```bash
-# Clone to the repo
+# Clone
 git clone https://github.com/Ale557333/Astromatch.git
 
 # Enter to the directory 
