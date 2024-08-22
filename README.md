@@ -27,7 +27,7 @@ It is a Tinder clone, featuring a profile screen with the option to "match" or r
 
 ## 🌎 How to access 
 
-- [Link do surge](https://astro-print-ale.surge.sh/)
+- [Link](https://astro-print-ale.surge.sh/)
 
 ## 🚀 Techs
 
